@@ -20,10 +20,10 @@ scraping_meneame.ipynb
 
 Ha estat realitzat amb Jupyter Notebook
 
-**Memòria de la pràctica**
+# Memòria de la pràctica
 
 Meneame_scraping.pdf
 
-**CSV amb l'execució final**
+# CSV amb l'execució final
 
 MenScraping_12_04_21_10_20_.csv
